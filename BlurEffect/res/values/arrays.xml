@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_content">
+        <item> "Lorem ipsum dolor sit amet, </item>
+        <item>consectetur adipiscing elit. Sed rutrum, </item>
+        <item>ligula eu fringilla condimentum, </item>
+        <item>lorem augue varius odio, vel sagittis neque nibh porttitor dui. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Duis a est ultricies, accumsan mi a, </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>In lobortis, sem vel rhoncus hendrerit, odio diam rutrum ipsum, ut varius lorem dui at mauris. </item>
+        <item>Vestibulum lobortis et quam non convallis. Phasellus viverra porta nisl, eu luctus erat tincidunt et. </item>
+        <item>Maecenas ac lorem dapibus, dictum turpis quis, blandit mi." </item>
+    </string-array>
+
+</resources>
