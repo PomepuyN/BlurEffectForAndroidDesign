@@ -29,6 +29,12 @@ public class Blur {
 			script.setInput(input);
 			script.forEach(output);
 			output.copyTo(bitmap);
+			
+			if(bitmap != sentBitmap) {
+				// To avoid memory leaks
+				sentBitmap.recycle();
+			}
+			
 			return bitmap;
 		}
 
@@ -258,6 +264,12 @@ public class Blur {
 
 		Log.e("pix", w + " " + h + " " + pix.length);
 		bitmap.setPixels(pix, 0, w, 0, 0, w, h);
+		
+		if(bitmap != sentBitmap) {
+			// To avoid memory leaks
+			sentBitmap.recycle();
+		}
+			
 		return (bitmap);
 	}
 
