@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/PomepuyN/BlurEffectForAndroidDesign.svg?branch=master)](http://www.android-gems.com/lib/PomepuyN/BlurEffectForAndroidDesign)
+
 BlurEffectForAndroidDesign
 ==========================
 
