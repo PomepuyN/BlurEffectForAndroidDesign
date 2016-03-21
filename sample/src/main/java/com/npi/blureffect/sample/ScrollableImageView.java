@@ -13,7 +13,7 @@ import android.view.View;
  * @author Nicolas POMEPUY
  * 
  */
-class ScrollableImageView extends View {
+public class ScrollableImageView extends View {
 
 	// A bitmap adapted to the View size
 	private Bitmap adaptedImage;
